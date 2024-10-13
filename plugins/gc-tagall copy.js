@@ -11,16 +11,16 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join` `;
   const oi = `*𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝘼𝙎 💋:* ${pesan}`;
-  let teks = `*🧝🏻‍♀ 𝙱𝙰𝚁𝙱𝙸𝙴 𝙻𝙰 𝙼𝙴𝙹𝙾𝚁 𝚈 𝙻𝙾 𝚂𝙰𝙱𝙴𝚂 𝙳𝙴 𝙼𝚄𝙹𝙴𝚁𝚂𝚂𝚂 🫦.*\n\n ${oi}\n\n➥ _*𝙱𝙰𝚁𝙱𝙸𝙴 𝙸𝙽𝚅𝙾𝙲𝙰𝙽𝙳𝙾 𝙰 𝙻𝙰𝚂 𝙼𝙰𝚂 𝙵𝙸𝙴𝙻𝙴𝚂 𝚈 𝙷𝙴𝚁𝙼𝙾𝚂𝙰𝚂*_\n`;
+  let teks = `*🎀 𝗕𝗮𝗿𝗯𝗶𝗲 𝘃𝘀 𝗺𝗮𝗹𝗮𝘀 𝘆 𝗮𝘀𝗶́..*\n\n ${oi}\n\n➥ _*𝗕𝗮𝗿𝗯𝗶𝗰𝗶𝘁𝗮 𝗶𝗻𝘃𝗼𝗰𝗮𝗻𝗱𝗼 𝗮 𝗹@𝘀 𝗳𝗹𝗼𝗷@𝘀 𝗹𝗲𝘃𝗮𝗻𝘁𝗲𝗻 𝗰𝘂𝗹𝗼𝘀 𝘃𝗮𝗴𝗼𝘀:*_\n`;
   for (const mem of participants) {
-    teks += `ʚ💗ɞ @${mem.id.split('@')[0]}\n`;
+    teks += `🌙 ⇝ @${mem.id.split('@')[0]}\n`;
   }
   teks += `└ * 𝙱ᴀʀʙɪᴇ𝙱ᴏᴛ ★ ɪɢ : @xʙᴀʀʙɪᴄɪᴛᴀ.7*`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
 handler.help = ['tagall <mesaje>', 'invocar <mesaje>'];
 handler.tags = ['group'];
-handler.command = /^(tagall|invocar|invocacion|todos|invocación)$/i;
+handler.command = /^(tagall1|invocar1|invocacion1|todos1|invocación1)$/i;
 handler.admin = true;
 handler.group = true;
 export default handler;

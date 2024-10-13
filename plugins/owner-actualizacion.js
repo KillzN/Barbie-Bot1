@@ -3,8 +3,8 @@ import axios from 'axios';
 let previousCommitSHA = '';
 let previousUpdatedAt = '';
 let previousCommitUser = ''; 
-const owner = 'ineffable.mvrco';
-const repo = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 ';
+const owner = 'xbarbicita.7';
+const repo = '𝐁𝐀𝐑𝐁𝐈𝐂𝐈𝐓𝐀 𝐁𝐎𝐓 ';
 const handler = async (m, {conn, text, usedPrefix, command}) => {
   const datas = global
   const idioma = datas.db.data.users[m.sender].language || global.defaultLenguaje

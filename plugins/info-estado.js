@@ -28,11 +28,11 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
+  const wm = '𝐁𝐀𝐑𝐁𝐈𝐂𝐈𝐓𝐀 𝐁𝐎𝐓';
   const info = ` ${tradutor.texto1[0]}
 
   ${tradutor.texto1[1]} KillzN
-  ${tradutor.texto1[2]} +56983073328
+  ${tradutor.texto1[2]} +593997315316
   ${tradutor.texto1[3]} https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
 
   ${tradutor.texto1[4]} ${rtime}
@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://www.instagram.com/ineffable.mvrco/` },
+    document: { url: `https://www.instagram.com/xbarbicita.7/` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -72,7 +72,7 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://www.instagram.com/ineffable.mvrco/",
+        mediaUrl: "https://www.instagram.com/xbarbicita.7/",
         mediaType: 2,
         previewType: "pdf",
         title: "KillzN",

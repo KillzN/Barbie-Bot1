@@ -1,4 +1,4 @@
-// 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 @ineffable.mvrco - _antiarab.js
+// 𝐁𝐀𝐑𝐁𝐈𝐂𝐈𝐓𝐀 𝐁𝐎𝐓 @xbarbicita.7 - _antiarab.js
 
 
 const handler = (m) => m;

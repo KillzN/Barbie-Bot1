@@ -14,43 +14,43 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', false],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true], 
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],  
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328']
+  ['593997315316', '👑 Barbie 👑', true],
+  ['593997315316', '👑 Barbie 👑', true],
+  ['593997315316', '👑 Barbie 👑', true],
+  ['593997315316', '👑 Barbie 👑', true],
+  ['593997315316', '👑 Barbie 👑', true],
+  ['593997315316', '👑 Barbie 👑', true],
+  ['593997315316', '👑 Barbie 👑', false],
+  ['593997315316', '👑 Barbie 👑', true],
+  ['593997315316', '👑 Barbie 👑', true],
+  ['593997315316', '👑 Barbie 👑', true],
+  ['593997315316', '👑 Barbie 👑', true], 
+  ['593997315316', '👑 Barbie 👑', true],
+  ['593997315316', '👑 Barbie 👑', true], 
+  ['593997315316'],
+  ['593997315316'],
+  ['593997315316'],
+  ['593997315316'],
+  ['593997315316'], 
+  ['593997315316'],  
+  ['593997315316'],
+  ['593997315316'],
+  ['593997315316'],
+  ['593997315316'], 
+  ['593997315316'], 
+  ['593997315316'],
+  ['593997315316'],
+  ['593997315316'],
+  ['593997315316'],
+  ['593997315316'], 
+  ['593997315316'],
+  ['593997315316'],
+  ['593997315316'],
+  ['593997315316']
 ];
 
-global.suittag = ['56983073328'];
-global.prems = ['56983073328'];
+global.suittag = ['593997315316'];
+global.prems = ['593997315316'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
@@ -86,16 +86,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧`;
-global.gt = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
-global.mysticbot = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
+global.wm2 = `${dia} ${fecha}\n𝐁𝐀𝐑𝐁𝐈𝐂𝐈𝐓𝐀 𝐁𝐎𝐓`;
+global.gt = '𝐁𝐀𝐑𝐁𝐈𝐂𝐈𝐓𝐀 𝐁𝐎𝐓';
+global.mysticbot = '𝐁𝐀𝐑𝐁𝐈𝐂𝐈𝐓𝐀 𝐁𝐎𝐓';
 global.channel = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
-global.md = 'https://github.com/KillzN/Perfect3';
-global.mysticbot = 'https://github.com/KillzN/Perfect3';
+global.md = 'https://github.com/KillzN/Barbie-Bot1';
+global.mysticbot = 'https://github.com/KillzN/Barbie-Bot1';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '56983073328';
+global.nomorown = '593997315316';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
