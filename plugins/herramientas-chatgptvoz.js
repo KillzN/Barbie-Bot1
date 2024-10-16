@@ -4,7 +4,7 @@
 /*       |- [ ⚠ ] - CREDITOS DEL CODIGO - [ ⚠ ] -|      */
 /*     —◉ DESAROLLADO POR OTOSAKA:                       */
 /*     ◉ Otosaka (https://github.com/6otosaka9)          */
-/*     ◉ Número: wa.me/593997315316                       */
+/*     ◉ Número: wa.me/593978755741                       */
 /*                                                       */
 /*     —◉ FT:                                            */
 /*     ◉ xbarbicita.7 (https://www.instagram.com/xbarbicita.7/)  */
